@@ -6,3 +6,5 @@ Templates Strings
 Destructuración  
 Callback básico  
 Callback Hell (apenas)  
+Promesas  
+Async-Await
